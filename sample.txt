@@ -1,0 +1,4 @@
+hi this is new bucket
+version 1 need to update.
+
+need to get command for getobject from bucket
